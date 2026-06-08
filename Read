@@ -1,0 +1,30 @@
+Based on the screenshot, Task 4 is a Basic Chatbot. For your GitHub README, you can use something like this:
+
+Basic Chatbot
+
+A simple rule-based chatbot developed using Python.
+The chatbot interacts with users through text input and provides predefined responses to common greetings and questions.
+
+Features:
+Responds to greetings such as "hello" and "hi"
+Answers simple questions like "how are you?"
+Provides predefined conversational replies
+User-friendly console interface
+Exit option to end the conversation
+
+Technologies Used:
+Python
+
+How to Run:
+1.Download or clone the project.
+2.Open a terminal in the project folder.
+3.Run the following command:
+4.python chatbot.py
+5.Type your message and interact with the chatbot.
+6.Enter bye to end the chat session.
+
+About the Project
+
+This project was created to understand the fundamentals of chatbot development using Python. It demonstrates the use of conditional statements,
+functions, loops, and user input/output operations to simulate basic human-computer interaction.
+
